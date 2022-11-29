@@ -1,0 +1,1 @@
+https://www.geeksforgeeks.org/voting-system-project-using-django-framework/
